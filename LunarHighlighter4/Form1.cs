@@ -58,6 +58,7 @@ namespace LunarHighlighter4
         {
             Form f3 = new Form3();
             f3.ShowDialog();
+            //blah
       
         }
     }
