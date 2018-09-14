@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarHighlighter4", "LunarHighlighter4\LunarHighlighter4.csproj", "{AD2D51FF-4A6F-441B-8B02-D3437FFE2DF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2D51FF-4A6F-441B-8B02-D3437FFE2DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2D51FF-4A6F-441B-8B02-D3437FFE2DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2D51FF-4A6F-441B-8B02-D3437FFE2DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2D51FF-4A6F-441B-8B02-D3437FFE2DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD50860-FDB1-4593-9105-6B2B6A9F5742}
+	EndGlobalSection
+EndGlobal
